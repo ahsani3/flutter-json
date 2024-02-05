@@ -1,8 +1,8 @@
-// import 'package:latihan_json/latihan_json.dart';
-// import 'package:test/test.dart';
+import 'package:latihan_json/latihan_json.dart';
+import 'package:test/test.dart';
 
-// void main() {
-//   test('calculate', () {
-//     expect(calculate(), 42);
-//   });
-// }
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}
